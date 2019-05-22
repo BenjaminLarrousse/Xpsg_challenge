@@ -10,4 +10,4 @@ Brief description:
 * utils.py contains functions to preprocess the data.
 * model_playerid.h5, model_teamid.h5 and model_xy.h5 are Keras models.
 
-A **detailed description** of my work can be found in this blog post: .
+A **detailed description** of my work can be found in this blog post: https://link.medium.com/tmK0XeZGTW
